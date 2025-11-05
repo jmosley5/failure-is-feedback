@@ -5,6 +5,9 @@ This repository includes working examples of code snippets used in the [Failure 
 Directory:
 
 - [Quick-Tips](https://github.com/jmosley5/failure-is-feedback/tree/main/cypress/e2e/quick-tip)
+- [JSDoc Link Example](https://github.com/jmosley5/failure-is-feedback/blob/main/index.tsx)
+
+index.tsx
 
 Thanks to the following websites used for automation examples:
 
